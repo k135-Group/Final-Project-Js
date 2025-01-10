@@ -1,1 +1,24 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.about {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  padding: 80px 0px;
+}
+.about .img {
+  width: 30%;
+}
+.about .img img {
+  width: 100%;
+}
+.about .txt ul li {
+  margin-bottom: 40px;
+}/*# sourceMappingURL=style.css.map */
